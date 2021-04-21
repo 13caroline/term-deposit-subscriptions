@@ -15,3 +15,7 @@ O objetivo deste estudo é prever corretamente se o cliente pretende assinar um 
 * [Análise Exploratória dos Dados](https://github.com/brunocv/AA2/blob/main/Data_Handling/Data_Analysis.ipynb)
 * [Tratamento dos Dados](https://github.com/brunocv/AA2/blob/main/Data_Handling/Data_Preprocessing.ipynb)
 * [Modelos de Machine Learning](https://github.com/brunocv/AA2/tree/main/Machine_Learning)
+  * [Supervisionados](https://github.com/brunocv/AA2/tree/main/Machine_Learning/Supervised_Learning)
+    * [K Nearest Neighbors](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/K_Nearest_Neighbors/K_Nearest_Neighbors.ipynb)
+    * [Regressão Logística](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Logistic_Regression/Logistic_Regression.ipynb)
+    * [Random Forest](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Random_Forest/Random_Forest.ipynb)
