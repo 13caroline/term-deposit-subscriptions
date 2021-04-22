@@ -19,3 +19,4 @@ O objetivo deste estudo é prever corretamente se o cliente pretende assinar um 
     * [K Nearest Neighbors](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/K_Nearest_Neighbors/K_Nearest_Neighbors.ipynb)
     * [Regressão Logística](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Logistic_Regression/Logistic_Regression.ipynb)
     * [Random Forest](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Random_Forest/Random_Forest.ipynb)
+    * [Support Vector Machines](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Support_Vector_Machines/Support_Vector_Machines.ipynb)
