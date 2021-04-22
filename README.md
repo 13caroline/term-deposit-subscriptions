@@ -25,3 +25,4 @@ O objetivo deste estudo é prever corretamente se o cliente pretende assinar um 
     * [Support Vector Machines](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Support_Vector_Machines/Support_Vector_Machines.ipynb)
     * [XGBoost](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/XGBoost/XGBoost.ipynb)
 
+<img src="https://seeklogo.com/images/U/Universidade_do_Minho-logo-CB2F98451C-seeklogo.com.png" align="left" height="48" width="48" >
