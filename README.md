@@ -16,8 +16,12 @@ O objetivo deste estudo é prever corretamente se o cliente pretende assinar um 
 * [Tratamento dos Dados](https://github.com/brunocv/AA2/blob/main/Data_Handling/Data_Preprocessing.ipynb)
 * [Modelos de Machine Learning](https://github.com/brunocv/AA2/tree/main/Machine_Learning)
   * [Supervisionados](https://github.com/brunocv/AA2/tree/main/Machine_Learning/Supervised_Learning)
+    * [Decision Tree](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Decision_Tree/Decision_Tree.ipynb)
+    * [Gradient Boosting](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Gradient_Boosting/Gradient_Boosting.ipynb)
     * [K Nearest Neighbors](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/K_Nearest_Neighbors/K_Nearest_Neighbors.ipynb)
     * [Regressão Logística](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Logistic_Regression/Logistic_Regression.ipynb)
+    * [Naive Bayes](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Naive_Bayes/Gaussian_Naive_Bayes.ipynb)
     * [Random Forest](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Random_Forest/Random_Forest.ipynb)
     * [Support Vector Machines](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Support_Vector_Machines/Support_Vector_Machines.ipynb)
-    * [Decision Tree](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Decision_Tree/Decision_Tree.ipynb)
+    * [XGBoost](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/XGBoost/XGBoost.ipynb)
+
