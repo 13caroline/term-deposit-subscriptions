@@ -8,7 +8,7 @@ Campanhas de vendas de _marketing_ constituem uma estratégia típica para aprim
 
 ### Objetivo
 
-O objetivo deste estudo é prever corretamente se o cliente pretende assinar um depósito a prazo, assumindo o valor da variável de interesse. Deste modo, serão aplicados métodos de _Machine Learning_, bem como de _Deep Learning_, incluindo a otimização de hiperparâmetros, numa tentativa de melhorar os resultados obtidos.
+O objetivo deste estudo é prever corretamente se o cliente pretende assinar, ou se assinou, um depósito a prazo, assumindo o valor da variável de interesse. Deste modo, serão aplicados métodos de _Machine Learning_, bem como de _Deep Learning_, incluindo a otimização de hiperparâmetros, numa tentativa de melhorar os resultados obtidos.
 
 ### Notebooks
 
