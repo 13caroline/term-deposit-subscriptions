@@ -2,9 +2,9 @@
 
 ## Previsão da realização de assinaturas de depósito a prazo
 
-O <a href="https://www.kaggle.com/henriqueyamahata/bank-marketing">conjunto de dados</a> é referentea a campanhas de _telemarketing_ direto de uma instituição bancária portuguesa, realizadas num período entre maio de 2008 e novembro de 2010. 
+O <a href="https://www.kaggle.com/henriqueyamahata/bank-marketing">conjunto de dados</a> é referente a campanhas de _telemarketing_ direto de uma instituição bancária portuguesa, realizadas entre maio de 2008 e novembro de 2010. 
 
-Campanhas de vendas de _marketing_ constituem uma estratégia típica para aprimorar os negócios. As empresas usam o _marketing direto_ para selecionar segmentos de clientes, entrando em contato com estes de modo a atingir um determinado objetivo. A centralização das interações remotas com o cliente num centro de contacto facilita a gestão operacional das campanhas. Esses centros permitem a comunicação com os clientes por diversos meios, sendo o telefone (fixo ou móvel) um dos mais utilizados (_telemarketing_).
+As campanhas de vendas constituem uma estratégia típica para aumentar o volume de negócios. As empresas usam o _marketing_ direto para entrar em contato com determinados clientes, de modo a atingir objetivos de vendas estipulados. A centralização das interações remotas com o cliente facilita a gestão operacional das campanhas. Essas interações dão-se por diversos meios, sendo o telefone (fixo ou móvel) um dos mais utilizados (_telemarketing_).
 
 ### Objetivo
 
