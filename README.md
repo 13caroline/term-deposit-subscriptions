@@ -24,6 +24,10 @@ O objetivo deste estudo é prever corretamente se o cliente pretende assinar, ou
     * [Random Forest](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Random_Forest/Random_Forest.ipynb)
     * [Support Vector Machines](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Support_Vector_Machines/Support_Vector_Machines.ipynb)
     * [XGBoost](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/XGBoost/XGBoost.ipynb)
+  * [Não Supervisionados](https://github.com/brunocv/AA2/tree/main/Machine_Learning/Unsupervised_Learning)
+    * [Birch](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Unsupervised_Learning/Birch/Birch.ipynb)
+    * [Gaussian Mixture](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Unsupervised_Learning/Gaussian_Mixture/Gaussian_Mixture.ipynb)
+    * [K-Means-Clustering](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Unsupervised_Learning/K_Means_Clustering/K_Means_Clustering.ipynb)
 
 ### Resultados Obtidos
 
