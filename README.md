@@ -27,7 +27,7 @@ O objetivo deste estudo é prever corretamente se o cliente pretende assinar, ou
 
 ### Resultados Obtidos
 
-* [Modelos de Machine Learning]
+* Modelos de Machine Learning
   * [Supervisionados](https://github.com/brunocv/AA2/tree/main/Results/Supervised_Learning)
     * [Decision Tree](https://github.com/brunocv/AA2/tree/main/Results/Supervised_Learning/Decision_Tree)
     * [Gradient Boosting](https://github.com/brunocv/AA2/tree/main/Results/Supervised_Learning/Gradient_Boosting)
