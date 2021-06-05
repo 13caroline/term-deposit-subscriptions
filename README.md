@@ -28,6 +28,11 @@ O objetivo deste estudo é prever corretamente se o cliente pretende assinar, ou
     * [Birch](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Unsupervised_Learning/Birch/Birch.ipynb)
     * [Gaussian Mixture](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Unsupervised_Learning/Gaussian_Mixture/Gaussian_Mixture.ipynb)
     * [K-Means-Clustering](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Unsupervised_Learning/K_Means_Clustering/K_Means_Clustering.ipynb)
+   
+ * [Modelos de Deep Learning](https://github.com/brunocv/AA2/tree/main/Deep_Learning)
+   * [DNN](https://github.com/brunocv/AA2/blob/main/Deep_Learning/DNN/DNN.ipynb)
+   * [LSTM](https://github.com/brunocv/AA2/blob/main/Deep_Learning/LSTM/LSTM.ipynb)
+   * [RNN](https://github.com/brunocv/AA2/blob/main/Deep_Learning/RNN/RNN.ipynb)
 
 ### Resultados Obtidos
 
@@ -41,6 +46,11 @@ O objetivo deste estudo é prever corretamente se o cliente pretende assinar, ou
     * [Random Forest](https://github.com/brunocv/AA2/tree/main/Results/Supervised_Learning/Random_Forest)
     * [Support Vector Machines](https://github.com/brunocv/AA2/tree/main/Results/Supervised_Learning/Support_Vector_Machines)
     * [XGBoost](https://github.com/brunocv/AA2/tree/main/Results/Supervised_Learning/XGBoost)
+
+* Modelos de Deep Learning
+  * [DNN](https://github.com/brunocv/AA2/tree/main/Results/Deep_Learning/DNN)
+  * [LSTM](https://github.com/brunocv/AA2/tree/main/Results/Deep_Learning/LSTM)
+  * [RNN](https://github.com/brunocv/AA2/tree/main/Results/Deep_Learning/RNN)
  
 ### Documentos
 
