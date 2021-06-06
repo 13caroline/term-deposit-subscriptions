@@ -55,5 +55,6 @@ O objetivo deste estudo é prever corretamente se o cliente pretende assinar, ou
 ### Documentos
 
 * [Apresentação](https://github.com/brunocv/AA2/blob/main/Documentos/Bank%20Marketing%20Apresenta%C3%A7%C3%A3o.pdf)
+* [Relatório](https://github.com/brunocv/AA2/blob/main/Documentos/Bank%20Marketing%20Relat%C3%B3rio.pdf)
 
 <img src="https://seeklogo.com/images/U/Universidade_do_Minho-logo-CB2F98451C-seeklogo.com.png" align="left" height="48" width="48" >
