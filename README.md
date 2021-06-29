@@ -1,21 +1,19 @@
-# Projeto de Aprendizagem Automática II 
+# Forecast of term deposit subscriptions 
 
-## Previsão da realização de assinaturas de depósito a prazo
+The <a href="https://www.kaggle.com/henriqueyamahata/bank-marketing">dataset</a> refers to direct _telemarketing_ campaigns of a Portuguese banking institution, carried out between May 2008 and November 2010. 
 
-O <a href="https://www.kaggle.com/henriqueyamahata/bank-marketing">conjunto de dados</a> é referente a campanhas de _telemarketing_ direto de uma instituição bancária portuguesa, realizadas entre maio de 2008 e novembro de 2010. 
+Sales campaigns are a typical strategy to increase turnover. Companies use _direct marketing_ to contact certain customers in order to achieve stipulated sales targets. Centralization of remote customer interactions facilitate operational management of campaigns. These interactions take place through different means, with the telephone (landline or mobile) being one of the most used (_telemarketing_). 
 
-As campanhas de vendas constituem uma estratégia típica para aumentar o volume de negócios. As empresas usam o _marketing_ direto para entrar em contato com determinados clientes, de modo a atingir objetivos de vendas estipulados. A centralização das interações remotas com o cliente facilita a gestão operacional das campanhas. Essas interações dão-se por diversos meios, sendo o telefone (fixo ou móvel) um dos mais utilizados (_telemarketing_).
+### Goal
 
-### Objetivo
-
-O objetivo deste estudo é prever corretamente se o cliente pretende assinar, ou se assinou, um depósito a prazo, assumindo o valor da variável de interesse. Deste modo, serão aplicados métodos de _Machine Learning_, bem como de _Deep Learning_, incluindo a otimização de hiperparâmetros, numa tentativa de melhorar os resultados obtidos.
+The goal of this study is to correctly predict whether the client intends to sign, or has signed, a term deposit, assuming the value of the variable of interest. Thus, _Machine Learning_ methods will be applied, as well as _Deep Learning_, including the optimization of hyperparameters, in an attempt to improve the results obtained. 
 
 ### Notebooks
 
-* [Análise Exploratória dos Dados](https://github.com/brunocv/AA2/blob/main/Data_Handling/Data_Analysis.ipynb)
-* [Tratamento dos Dados](https://github.com/brunocv/AA2/blob/main/Data_Handling/Data_Preprocessing.ipynb)
-* [Modelos de Machine Learning](https://github.com/brunocv/AA2/tree/main/Machine_Learning)
-  * [Supervisionados](https://github.com/brunocv/AA2/tree/main/Machine_Learning/Supervised_Learning)
+* [Exploratory Data Analysis](https://github.com/brunocv/AA2/blob/main/Data_Handling/Data_Analysis.ipynb)
+* [Data Processing](https://github.com/brunocv/AA2/blob/main/Data_Handling/Data_Preprocessing.ipynb)
+* [Machine Learning Models](https://github.com/brunocv/AA2/tree/main/Machine_Learning)
+  * [Supervised](https://github.com/brunocv/AA2/tree/main/Machine_Learning/Supervised_Learning)
     * [Decision Tree](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Decision_Tree/Decision_Tree.ipynb)
     * [Gradient Boosting](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Gradient_Boosting/Gradient_Boosting.ipynb)
     * [K-Nearest-Neighbors](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/K_Nearest_Neighbors/K_Nearest_Neighbors.ipynb)
@@ -24,20 +22,20 @@ O objetivo deste estudo é prever corretamente se o cliente pretende assinar, ou
     * [Random Forest](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Random_Forest/Random_Forest.ipynb)
     * [Support Vector Machines](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/Support_Vector_Machines/Support_Vector_Machines.ipynb)
     * [XGBoost](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Supervised_Learning/XGBoost/XGBoost.ipynb)
-  * [Não Supervisionados](https://github.com/brunocv/AA2/tree/main/Machine_Learning/Unsupervised_Learning)
+  * [Unsupervised](https://github.com/brunocv/AA2/tree/main/Machine_Learning/Unsupervised_Learning)
     * [Birch](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Unsupervised_Learning/Birch/Birch.ipynb)
     * [Gaussian Mixture](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Unsupervised_Learning/Gaussian_Mixture/Gaussian_Mixture.ipynb)
     * [K-Means-Clustering](https://github.com/brunocv/AA2/blob/main/Machine_Learning/Unsupervised_Learning/K_Means_Clustering/K_Means_Clustering.ipynb)
    
- * [Modelos de Deep Learning](https://github.com/brunocv/AA2/tree/main/Deep_Learning)
+ * [Deep Learning Models](https://github.com/brunocv/AA2/tree/main/Deep_Learning)
    * [DNN](https://github.com/brunocv/AA2/blob/main/Deep_Learning/DNN/DNN.ipynb)
    * [LSTM](https://github.com/brunocv/AA2/blob/main/Deep_Learning/LSTM/LSTM.ipynb)
    * [RNN](https://github.com/brunocv/AA2/blob/main/Deep_Learning/RNN/RNN.ipynb)
 
-### Resultados Obtidos
+### Results
 
-* Modelos de Machine Learning
-  * [Supervisionados](https://github.com/brunocv/AA2/tree/main/Results/Supervised_Learning)
+* Machine Learning Models
+  * [Supervised](https://github.com/brunocv/AA2/tree/main/Results/Supervised_Learning)
     * [Decision Tree](https://github.com/brunocv/AA2/tree/main/Results/Supervised_Learning/Decision_Tree)
     * [Gradient Boosting](https://github.com/brunocv/AA2/tree/main/Results/Supervised_Learning/Gradient_Boosting)
     * [K-Nearest-Neighbors](https://github.com/brunocv/AA2/tree/main/Results/Supervised_Learning/K_Nearest_Neighbors)
@@ -47,14 +45,22 @@ O objetivo deste estudo é prever corretamente se o cliente pretende assinar, ou
     * [Support Vector Machines](https://github.com/brunocv/AA2/tree/main/Results/Supervised_Learning/Support_Vector_Machines)
     * [XGBoost](https://github.com/brunocv/AA2/tree/main/Results/Supervised_Learning/XGBoost)
 
-* Modelos de Deep Learning
+* Deep Learning Models
   * [DNN](https://github.com/brunocv/AA2/tree/main/Results/Deep_Learning/DNN)
   * [LSTM](https://github.com/brunocv/AA2/tree/main/Results/Deep_Learning/LSTM)
   * [RNN](https://github.com/brunocv/AA2/tree/main/Results/Deep_Learning/RNN)
  
 ### Documentos
 
-* [Apresentação](https://github.com/brunocv/AA2/blob/main/Documentos/Bank%20Marketing%20Apresenta%C3%A7%C3%A3o.pdf)
-* [Relatório](https://github.com/brunocv/AA2/blob/main/Documentos/Bank%20Marketing%20Relat%C3%B3rio.pdf)
+* [Presentation](https://github.com/brunocv/AA2/blob/main/Documentos/Bank%20Marketing%20Apresenta%C3%A7%C3%A3o.pdf)
+* [Technical report](https://github.com/brunocv/AA2/blob/main/Documentos/Bank%20Marketing%20Relat%C3%B3rio.pdf)
 
-<img src="https://seeklogo.com/images/U/Universidade_do_Minho-logo-CB2F98451C-seeklogo.com.png" align="left" height="48" width="48" >
+
+## Collaborators
+
+| Name            	|
+|-----------------	|
+| [Bruno Veloso](https://github.com/brunocv)                 |
+| [Carolina Cunha](https://github.com/13caroline)  	|
+
+> <img src="https://seeklogo.com/images/U/Universidade_do_Minho-logo-CB2F98451C-seeklogo.com.png" align="left" height="48" width="48" > University of Minho, Software Engineering (4th Year).
